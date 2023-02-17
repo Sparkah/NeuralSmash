@@ -1,0 +1,2 @@
+/Users/timpie/Desktop/Git/Neural smash/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+/Users/timpie/Desktop/Git/Neural smash/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
